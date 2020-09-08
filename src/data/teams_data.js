@@ -110,7 +110,7 @@ const TECH_TEAM = [
         linkedin: '',
     },
     {
-        name: 'Calvin Guo',
+        name: 'Jocky Guo',
         image: 'missing.jpg',
         role: 'Developer',
         linkedin: '',
